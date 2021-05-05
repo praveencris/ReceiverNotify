@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">PowerReceiver</string>
     <string name="send_custom_broadcast">Send Custom Broadcast</string>
+    <string name="send_notification">Send Notification</string>
+    <string name="channel_name">Channel Name</string>
+    <string name="channel_description">Channel Description</string>
+    <string name="textview">Notification Details</string>
 </resources>
